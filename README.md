@@ -48,4 +48,6 @@ Cara menjalankan :
         - Buat sebuah database dengan nama `bootcamp`;
         - Import file `bootcamp.sql` kedalam database.
         - Jalankan di browser dengan mengetikkan `http://localhost/bootcamp-arkademy/6/index.php`
+        - DEMO
+        ![alt text](https://github.com/mhdramadhanarvin/bootcamp-arkademy/blob/master/Bootcamp.png)
     
