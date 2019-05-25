@@ -18,6 +18,7 @@
 	//inikata bisa diganti dengan yang lain
 	//contoh echo count_vowels('akudiadankamu');
 	//hasilnya : 7
+	//letakkan kodenya dibawah ini
 
 
 	//letakkan kodenya diatas teks ini
