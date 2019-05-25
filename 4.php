@@ -35,7 +35,16 @@
 		}
 	}
 
-	echo cetak_gambar(5);
-	echo '<br/><br/>';
-	echo cetak_gambar(7);
+	//tambahkan kode echo cetak_gambar(angka) dibawah komentar ini 
+	//ubah angka menjadi angka yg ingin dicetak	
+	//contoh echo cetak_gambar(5)
+	//hasil :X X X X X
+	//	     = = X = =
+	//	     = = X = =
+	//	     = = X = =
+	//	     X X X X X 
+	//letakkan dibawah ini
+
+
+	//letakkan diatas ini
 ?>
