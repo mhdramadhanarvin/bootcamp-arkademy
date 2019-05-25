@@ -14,7 +14,9 @@
 	  	return $vocal;
 	} 
 
-	echo count_vowels('programmer');
-	echo '<br/>';
-	echo count_vowels('hmm..');
+	//tambahkan kode echo count_vowels('kata'); dibagian bawah teks ini 
+	//kata bisa diganti dengan yang lain
+
+
+	//letakkan kodenya diatas teks ini
 ?>
