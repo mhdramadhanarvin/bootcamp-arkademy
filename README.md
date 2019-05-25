@@ -7,9 +7,9 @@ Software yang dibutuhkan
 
 Cara menjalankan : 
 - File 3.php :
-    - Buka file 3.php menggunakan text editor .
+    - Buka file **`3.php`** menggunakan text editor .
     - Tambahkan kode `echo count_vowels("katayangmaudihitunghurufvokalnya");` dibagian bawah setelah kode komentar .
-    - Kata  **`katayangmaudihitunghurufvokalnya`** bisa disesuaikan dengan keinginan . 
+    - Ubah  **`katayangmaudihitunghurufvokalnya`** dengan yang anda inginkan. 
     
     ```php
        echo count_vowels("arkademy"); 
@@ -18,7 +18,7 @@ Cara menjalankan :
     - Lalu jalankan di browser dengan mengetikkan `http://localhost/bootcamp-arkademy/3.php`.
     
 - FIle 4.php
-    - Buka file 4.php menggunakan text editor .
+    - Buka file **`4.php`** menggunakan text editor .
     - Tambahkan kode `echo cetak_gambar(angka);` dibagian bawah setelah kode komentar .
     - Ubah  **`angka`** menjadi angka yang ingin dicetak.
     ```php
@@ -28,7 +28,7 @@ Cara menjalankan :
     - Lalu jalankan di browser dengan mengetikkan `http://localhost/bootcamp-arkademy/4.php`.    
     
 - File 5.php :
-    - Buka file 5.php menggunakan text editor .
+    - Buka file **`5.php`** menggunakan text editor .
     - Tambahkan kode `echo ganti_kata("katayangmaudiubahhurufnya","hurufyangmaudiganti","hurufpengganti");` dibagian bawah setelah kode komentar .
     - Ubah  **`katayangmaudiubahhurufnya`** sesuai keinginan.
     - Ubah **`hurufyangmaudiganti`** menjadi huruf yang mau diubah
@@ -44,7 +44,7 @@ Cara menjalankan :
     - PART A
         - File query sqlnya bernama **`sql_query(PART A).txt`**
     - PART B
-        - Masuk kedalam folder 6
+        - Masuk kedalam folder bernama **`6`**
         - Buat sebuah database dengan nama `bootcamp`;
         - Import file `bootcamp.sql` kedalam database.
         - Jalankan di browser dengan mengetikkan `http://localhost/bootcamp-arkademy/6/index.php`
