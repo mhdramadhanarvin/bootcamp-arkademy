@@ -20,6 +20,8 @@ Cara menjalankan :
     - Lalu jalankan di browser dengan mengetikkan `http://localhost/bootcamp-arkademy/5.php` .
     
  - Folder 6 :
+    - PART A
+        - File query sqlnya bernama sql_query(PART A).txt
     - PART B
         - Masuk kedalam folder 6
         - Buat sebuah database dengan nama `bootcamp`;
