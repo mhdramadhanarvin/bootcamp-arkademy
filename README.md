@@ -6,5 +6,7 @@ Software yang dibutuhkan
 
 Cara menjalankan :
 - File 3.php :
-    - Tambahkan kode `echo count_vowels("katayangmaudihitunghurufvokalnya");`
+    - Buka file 3.php menggunakan text editor .
+    - Tambahkan kode `echo count_vowels("katayangmaudihitunghurufvokalnya");` dibagian bawah setelah kode komentar .
+    - Kata  **`katayangmaudihitunghurufvokalnya`** bisa disesuaikan dengan keinginan . 
     - Lalu jalankan di browser dengan mengetikkan `localhost/bootcamp-arkademy/3.php`
