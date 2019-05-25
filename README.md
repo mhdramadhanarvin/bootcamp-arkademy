@@ -17,6 +17,16 @@ Cara menjalankan :
     
     - Lalu jalankan di browser dengan mengetikkan `http://localhost/bootcamp-arkademy/3.php`.
     
+- FIle 4.php
+    - Buka file 4.php menggunakan text editor .
+    - Tambahkan kode `echo cetak_gambar(angka);` dibagian bawah setelah kode komentar .
+    - Ubah  **`angka`** menjadi angka yang ingin dicetak.
+    ```php
+       echo cetak_gambar(7); 
+    ```
+    
+    - Lalu jalankan di browser dengan mengetikkan `http://localhost/bootcamp-arkademy/4.php`.    
+    
 - File 5.php :
     - Buka file 5.php menggunakan text editor .
     - Tambahkan kode `echo ganti_kata("katayangmaudiubahhurufnya","hurufyangmaudiganti","hurufpengganti");` dibagian bawah setelah kode komentar .
