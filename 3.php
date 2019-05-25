@@ -14,8 +14,10 @@
 	  	return $vocal;
 	} 
 
-	//tambahkan kode echo count_vowels('kata'); dibagian bawah teks ini 
-	//kata bisa diganti dengan yang lain
+	//tambahkan kode "echo count_vowels('inikata');" tanpa tanda petik dibagian bawah teks ini 
+	//inikata bisa diganti dengan yang lain
+	//contoh echo count_vowels('akudiadankamu');
+	//hasilnya : 7
 
 
 	//letakkan kodenya diatas teks ini
