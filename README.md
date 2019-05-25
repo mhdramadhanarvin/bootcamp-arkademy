@@ -20,7 +20,7 @@ Cara menjalankan :
     - Lalu jalankan di browser dengan mengetikkan `localhost/bootcamp-arkademy/5.php` .
     
  - Folder 6 :
-    - PART A
+    - PART B
         - Masuk kedalam folder 6
         - Buat sebuah database dengan nama `bootcamp`;
         - Import file `bootcamp.sql` kedalam database.
