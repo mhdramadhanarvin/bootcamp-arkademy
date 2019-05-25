@@ -3,6 +3,7 @@ Software yang dibutuhkan
 - XAMPP 
 - PHP Version 7.1.7
 - Text Editor 
+- Koneksi internet (untuk menjalankan bootstrap CDN)
 
 Cara menjalankan : 
 - File 3.php :
