@@ -17,5 +17,8 @@ Cara menjalankan :
     - Ubah  **`katayangmaudiubahhurufnya`** sesuai keinginan.
     - Ubah **`hurufyangmaudiganti`** menjadi huruf yang mau diubah
     - Ubah **`hurufpengganti`** menjadi huruf yang akan jadi pengganti **`hurufyangmaudiganti`**
-    - Lalu jalankan di browser dengan mengetikkan `localhost/bootcamp-arkademy/3.php`.  
+    - Lalu jalankan di browser dengan mengetikkan `localhost/bootcamp-arkademy/5.php` 
+    
+- Folder 6 :
+    - 
     
